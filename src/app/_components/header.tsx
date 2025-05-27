@@ -1,27 +1,27 @@
 "use client"
-import { SITE_TITLE } from "@/lib/constants";
-import Link from "next/link";
-import { useEffect, useRef, useState } from "react";
+import { SITE_TITLE } from "@/lib/constants"
+import Link from "next/link"
+import { useEffect, useRef, useState } from "react"
 
 const Header = () => {
-  const [show, setShow] = useState(true);
-  const lastScroll = useRef(0);
+  const [show, setShow] = useState(true)
+  const lastScroll = useRef(0)
 
   useEffect(() => {
     const onScroll = () => {
-      const y = window.scrollY;
+      const y = window.scrollY
       if (y < 10) {
-        setShow(true);
+        setShow(true)
       } else if (y > lastScroll.current) {
-        setShow(false); // 下スクロールで非表示
+        setShow(false) // 下スクロールで非表示
       } else {
-        setShow(true); // 上スクロールで表示
+        setShow(true) // 上スクロールで表示
       }
-      lastScroll.current = y;
-    };
-    window.addEventListener("scroll", onScroll, { passive: true });
-    return () => window.removeEventListener("scroll", onScroll);
-  }, []);
+      lastScroll.current = y
+    }
+    window.addEventListener("scroll", onScroll, { passive: true })
+    return () => window.removeEventListener("scroll", onScroll)
+  }, [])
 
   return (
     <header
@@ -35,7 +35,7 @@ const Header = () => {
         </Link>
       </h2>
     </header>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header

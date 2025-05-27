@@ -1,25 +1,17 @@
-import { type Author } from "@/interfaces/author";
-import Link from "next/link";
-import CoverImage from "./cover-image";
-import DateFormatter from "./date-formatter";
+import { type Author } from "@/interfaces/author"
+import Link from "next/link"
+import CoverImage from "./cover-image"
+import DateFormatter from "./date-formatter"
 
 type Props = {
-  title: string;
-  coverImage: string;
-  date: string;
-  excerpt: string;
-  author: Author;
-  slug: string;
-};
+  title: string
+  coverImage: string
+  date: string
+  excerpt: string
+  slug: string
+}
 
-export function PostPreview({
-  title,
-  coverImage,
-  date,
-  excerpt,
-  author,
-  slug,
-}: Props) {
+export function PostPreview({ title, coverImage, date, excerpt, slug }: Props) {
   return (
     <div>
       <div className="mb-5">
@@ -30,10 +22,10 @@ export function PostPreview({
           {title}
         </Link>
       </h3>
-      <div className="text-lg mb-4">
+      <div className="text-xs text-gray-400 mt-2 mb-8">
         <DateFormatter dateString={date} />
       </div>
       <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
     </div>
-  );
+  )
 }
