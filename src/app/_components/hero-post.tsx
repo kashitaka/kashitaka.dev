@@ -1,4 +1,4 @@
-import Avatar from "@/app/_components/avatar";
+import Profile from "@/app/_components/profile";
 import CoverImage from "@/app/_components/cover-image";
 import { type Author } from "@/interfaces/author";
 import Link from "next/link";
@@ -39,7 +39,7 @@ export function HeroPost({
         </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
-          <Avatar name={author.name} picture={author.picture} />
+          <Profile/>
         </div>
       </div>
     </section>

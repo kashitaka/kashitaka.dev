@@ -29,7 +29,7 @@ const Header = () => {
         show ? "translate-y-0" : "-translate-y-full"
       }`}
     >
-      <h2 className="text-xl md:text-2xl font-bold tracking-tight leading-tight mb-2 mt-0 flex items-center h-14 px-4">
+      <h2 className="text-xl md:text-2xl font-bold tracking-tight leading-tight mt-0 flex items-center h-16 px-4">
         <Link href="/" className="hover:underline">
           {SITE_TITLE}
         </Link>
