@@ -15,8 +15,8 @@ export default function Index() {
       <Container>
         <div className="max-w-4xl mx-auto">
           <div className="flex flex-col lg:flex-row gap-8">
-            <div className="order-1 lg:order-2 lg:w-1/3 w-full lg:mb-8 lg:mb-0 ">
-              <div className="lg:sticky lg:top-8 lg:top-16">
+            <div className="order-1 lg:order-2 lg:w-1/3 w-full mb-4">
+              <div className="lg:sticky lg:top-16">
                 <Profile />
               </div>
             </div>

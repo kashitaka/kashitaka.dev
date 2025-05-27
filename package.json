@@ -1,10 +1,14 @@
 {
+  "engines": {
+    "node": ">=22.16.0"
+  },
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
+    "build": "next build && yarn prepare-docs",
     "start": "next start",
-    "format": "prettier --write src"
+    "fmt": "prettier --write src",
+    "prepare-docs": "touch docs/.nojekyll && printf 'kashitaka.dev' > docs/CNAME"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.0",
