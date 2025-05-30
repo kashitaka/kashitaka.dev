@@ -1,5 +1,5 @@
 import Footer from "@/app/_components/footer"
-import { SITE_TITLE, HOME_OG_IMAGE_URL, SITE_DESCRIPTION } from "@/lib/constants"
+import { SITE_TITLE, SITE_ROOT_PATH, HOME_OG_IMAGE_URL, SITE_DESCRIPTION } from "@/lib/constants"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import cn from "classnames"
@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: `${SITE_TITLE}`,
   description: `${SITE_DESCRIPTION}。`,
   openGraph: {
-    images: [HOME_OG_IMAGE_URL],
+    images: [SITE_ROOT_PATH + HOME_OG_IMAGE_URL],
   },
 }
 

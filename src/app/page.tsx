@@ -1,3 +1,4 @@
+import { SITE_COVER_IMAGE } from "@/lib/constants"
 import Container from "@/app/_components/container"
 import Header from "@/app/_components/header"
 import Profile from "./_components/profile"
@@ -11,7 +12,7 @@ export default function Index() {
   return (
     <main>
       <Header />
-      <TopCover imageSrc="/assets/blog/hello-world/cover.jpg" />
+      <TopCover imageSrc={SITE_COVER_IMAGE} />
       <Container>
         <div className="max-w-4xl mx-auto lg:mt-8">
           <div className="flex flex-col lg:flex-row gap-8">

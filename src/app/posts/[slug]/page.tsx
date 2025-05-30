@@ -1,7 +1,7 @@
 import { Metadata } from "next"
 import { notFound } from "next/navigation"
 import { getAllPosts, getPostBySlug } from "@/lib/api"
-import { CMS_NAME } from "@/lib/constants"
+import { SITE_ROOT_PATH, SITE_TITLE } from "@/lib/constants"
 import markdownToHtml from "@/lib/markdownToHtml"
 import Container from "@/app/_components/container"
 import Header from "@/app/_components/header"
@@ -51,13 +51,14 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
     return notFound()
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`
-
   return {
-    title,
+    title: post.title,
     openGraph: {
-      title,
-      images: [post.ogImage.url],
+      type: "website",
+      title: post.title,
+      images: [SITE_ROOT_PATH + post.ogImage.url],
+      description: post.excerpt,
+      siteName: SITE_TITLE,
     },
   }
 }

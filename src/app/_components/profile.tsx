@@ -25,7 +25,9 @@ const Profile = ({ concise = false, shortDescription }: Props) => {
       {!concise && (
         <>
           <div className="mt-4 w-full flex justify-left mb-4">
-            <p className="text-sm text-gray-600 dark:text-gray-400 max-w-md">{PROFILE.description}</p>
+            <p style={{ whiteSpace: "pre-line" }} className="text-sm text-gray-600 dark:text-gray-400 max-w-md">
+              {PROFILE.description}
+            </p>
           </div>
           <div className="flex w-full gap-3 justify-left">
             {PROFILE.githubUrl && (

@@ -1,12 +1,18 @@
 export const SITE_TITLE = "The Kashitaka Blog"
-export const SITE_DESCRIPTION = "エンジニアリングのことなどを中心に書いています。"
+export const SITE_ROOT_PATH = "https://kashitaka.dev"
+export const SITE_DESCRIPTION = "アメリカの大学院でCSを学ぶあれこれを発信していきたいエンジニアのブログ"
+export const SITE_COVER_IMAGE = "/assets/IMG_9008.jpg"
+export const SITE_INQUIRY_URL = "https://forms.gle/3b7d8Z1a5c9f2g4i6"
 export const CMS_NAME = "Markdown"
-export const HOME_OG_IMAGE_URL =
-  "https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg"
+export const HOME_OG_IMAGE_URL = "/assets/top_og.png"
 export const YEAR = "2025"
 export const PROFILE = {
   name: "kashitaka",
-  description: "A cybernetic duck v3.0 / Software Engineer @ XICA / ex-Recruit / duck fanatic",
+  description:
+    "ソフトウェアエンジニア。2025年夏Georgia TechのComputational Science and Engineering専攻に入学予定。\n \
+  ブログでアメリカの大学院の受験のあれこれを伝えていきたいです。よろしくお願いします。\n \
+  \n \
+  経歴: 東工大 → 某新聞社 → リクルート → ベンチャーCTO → (株)サイカ → CSを学びに渡米",
   image: "/assets/blog/profile/IJy6aSXU_400x400.jpg",
   githubUrl: "https://github.com/kashitaka",
   xUrl: "https://x.com/kashitaka1118",

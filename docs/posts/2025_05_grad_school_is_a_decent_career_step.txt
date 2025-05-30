@@ -1,0 +1,112 @@
+4:"$Sreact.fragment"
+5:I[9275,[],""]
+6:I[1343,[],""]
+8:I[3120,[],"OutletBoundary"]
+a:I[3120,[],"MetadataBoundary"]
+c:I[3120,[],"ViewportBoundary"]
+e:I[6130,[],""]
+1:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:HL["/_next/static/css/c50490cb0a1c698b.css","style"]
+3:HL["/_next/static/css/28c4253c14dd91f8.css","style"]
+0:{"P":null,"b":"l4xb3p8_Y8PLv1reN92bU","p":"","c":["","posts","2025_05_grad_school_is_a_decent_career_step"],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","2025_05_grad_school_is_a_decent_career_step","d"],{"children":["__PAGE__?{\"slug\":\"2025_05_grad_school_is_a_decent_career_step\"}",{}]}]}]},"$undefined","$undefined",true],["",["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/c50490cb0a1c698b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"32x32","href":"/favicon/favicon-32x32.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"16x16","href":"/favicon/favicon-16x16.png"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}],["$","link",null,{"rel":"mask-icon","href":"/favicon/safari-pinned-tab.svg","color":"#000000"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon/favicon.ico"}],["$","meta",null,{"name":"msapplication-TileColor","content":"#000000"}],["$","meta",null,{"name":"msapplication-config","content":"/favicon/browserconfig.xml"}],["$","meta",null,{"name":"theme-color","content":"#000"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml"}]]}],["$","body",null,{"className":"__className_e8ce0c dark:bg-slate-900 dark:text-slate-400","children":[["$","div",null,{"className":"min-h-screen","children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}],["$","footer",null,{"className":"bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800","children":["$","div",null,{"className":"container mx-auto px-5 mt-4","children":["$","div",null,{"className":"py-16 flex justify-center items-center w-full text-sm","children":["$","span",null,{"children":["The Kashitaka Blog"," © ","2025","."]}]}]}]}]]}]]}]]}],{"children":["posts",["$","$4","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":[["slug","2025_05_grad_school_is_a_decent_career_step","d"],["$","$4","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","posts","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]]}],{"children":["__PAGE__",["$","$4","c",{"children":["$L7",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/28c4253c14dd91f8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L8",null,{"children":"$L9"}]]}],{},null]},null]},null]},null],["$","$4","h",{"children":[null,["$","$4","1cNn5LEGYBSyW6KrXssbh",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":["$e","$undefined"],"s":false,"S":true}
+f:I[4207,["540","static/chunks/540-9cac8ad7742a4959.js","333","static/chunks/app/posts/%5Bslug%5D/page-f8000881339794f3.js"],"default"]
+10:I[8173,["540","static/chunks/540-9cac8ad7742a4959.js","333","static/chunks/app/posts/%5Bslug%5D/page-f8000881339794f3.js"],"Image"]
+11:T3927,<p>こんにちは。自分は2025年の夏からコンピューターサイエンス(CS)を学ぶため、アメリカのジョージア工科大学の修士課程に留学する者です。</p>
+<p>このブログでは一連の投稿を通じて、アメリカの大学院の情報や、準備のために何が必要なのかを発信していきます。</p>
+<h1>情報が少なくハードルが高い</h1>
+<p>日本で手に入るアメリカ大学院の留学情報が少なく、その情報の少なさが障壁となって留学を考えるエンジニアは少ないです。ネットで転職情報を大量に目にする時代ですが、海外で就労したり海外大学院でCS学ぶことに関する情報はほぼありません。</p>
+<p>多くのエンジニアが転職する時代ですが、大学院でCSを学ぶリアルな知り合いはいません。これは、情報や身近な体験談がないことが一因だと思います。</p>
+<p>アメリカの大学を出ている人が知人に何人かいますが、彼らは高校から行っているなど家庭環境がそもそも違ったりします。ずっと日本の一般家庭で育ち、大学、社会人経験を経て大学院に入る人は稀です。</p>
+<h1>情報共有でハードルを下げていきたい</h1>
+<p>私が一連の記事を投稿するモチベーションは、私自信が準備期間に情報が少なく苦労したというものです。その過程で助けられたのは、アメリカ大学院でCSを学ばれた先駆者達のブログの情報でした。</p>
+<p>彼らの残した情報があったので私は具体的な方法を知ることができ、「大変そうではあるが現実的な選択肢としてはありだ」という結論になったのでした。</p>
+<p>私がお世話になった先達たちの記事のように、私自身もこのブログを通して他の方を応援できたらという思いでやっていきます💪💪💪</p>
+<h1>アメリカ留学のメリット</h1>
+<h2>卒業後にアメリカで働く</h2>
+<p>アメリカはソフトウェア産業の中心地であり、エンジニアなら「いつかアメリカで勝負してみたい」と思ったことがある方もいるでしょう。</p>
+<p>日本のソフトウェアエンジニアで、特に海外経験もなく英語力もない人がアメリカで働くとなったら、実は大学院留学が最も確実な方法だったりします。</p>
+<p>アメリカの理系のプログラムはSTEM領域と呼ばれ、CSも当然STEMに当たります。そしてこの領域の卒業生は OPTという制度を使って卒業後に最大3年まで働くことができます。（もちろん就活がうまく行って仕事にありつけたらの話なので確約ではありませんが。）</p>
+<h3>アメリカで働くための他の選択肢</h3>
+<p>参考までに。考えられるのは以下</p>
+<ul>
+<li>現地企業に就職
+<ul>
+<li>英語力が並の日本人だと面接が厳しい。ビザの発給も非常に少ない。現地のアメリカ人でなく、わざわざ日本人を雇おうと思わせるスキルを証明する必要がある。難易度高し。</li>
+</ul>
+</li>
+<li>現地にポストがある日本企業に就職
+<ul>
+<li>会社に海外赴任させてもらう。現地就職よりは難易度が低そうだが、会社の都合に左右され確実ではない。ソフトウェアエンジニアに関しては日本企業でアメリカ赴任がある会社も稀。</li>
+</ul>
+</li>
+<li>ワーキングホリデー
+<ul>
+<li>under 30ならあり？エンジニアポジションで仕事が見つかるのかはよくわからない。単純労働に就労する人が多いイメージ。情報不足。</li>
+</ul>
+</li>
+</ul>
+<p>別のオプションを探るのは大事ですが、確実な方法も並行して進めるのがいいです。</p>
+<h2>CSを本場でしっかり学ぶ</h2>
+<p>テック産業に限らず、学問の領域としてもCS分野の研究はアメリカが進んでおり、そんな環境でCS分野を学習することができます。</p>
+<p>世界大学ランキングなど見るとわかりますが、2024年の<a href="https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems/2024" rel="noopener noreferrer" target="_blank">QS World University Rankings</a>のCS部門を見ると上位はアメリカの大学が多いです。</p>
+<p>日本のトップである東大が38位。対して私が通うことになるGeorgia Techは28位でありキャリアアップの手段としても有効です。</p>
+<p>もちろん「入るのは簡単だが出るのが難しい」とよく言われるアメリカの大学なので、勉強はハードなのですが、学ぶのが好きな人なら楽しめると思います。（多分）</p>
+<h2>英語もできるようになる</h2>
+<p>英語が弱点な普通の日本人でも、どっぷり1年以上アメリカに身を置けば修士過程を終える頃にはビジネスレベルまでなら流暢になるでしょう。</p>
+<p>上級者レベルの英語を身につける方法として、語学留学という選択肢もありますが、英語力強化と同時にCS学位も取得する大学院留学は効率のいい選択肢です。</p>
+<h1>実現可能性</h1>
+<p>メリットを紹介してきましたが、現実的にいけるのか？となると思います。これは日本の大学との違いを知ると、少しいける気がしてくるかもしれません。</p>
+<h2>卒論なし</h2>
+<p>アメリカの大学院はプログラムによって Research Track（研究系）と Professional Track（職業系）といったものがあり、前者の場合は博士課程も見据えて研究や論文に取り組む一方で、後者であれば修論は選択制でやりたい人がやるというプログラムが多いです。</p>
+<p>修論がなければ当然、講義と就活に集中できます。</p>
+<p>Trackを明確に定義していないプログラムも多いです。そういうところでも大抵は修論が選択制になっていて、博士課程を目指していたり興味がある研究テーマをもつ学生向けだったりします。</p>
+<h2>期間は1年〜1.5年</h2>
+<p>日本の大学はどこも大抵2年の期間を設定していますが、アメリカの大学院は大学のプログラムによって様々で、大抵は1~1.5年の設定が多いです。</p>
+<p>2年のプログラムもあるが稀な印象です。Research Trackで博士もいく前提のプログラムは2年のものもあります。</p>
+<p>期間が短ければ、学費や生活費も安くなるので金銭的なリスクも減らせるし、仮に就活等のキャリア形成に失敗しても時間的な損失は少なくて済みます。</p>
+<h2>アラサーにも優しい年齢設定</h2>
+<p>日本の大学院との大きな違いに学生の年齢があります。日本の修士は学部卒業後すぐに入学するのが普通なので学生はほぼ全員22~24歳です。</p>
+<p>一方、アメリカでは学部を卒業した後に一旦就職し、現場経験と学費を貯めてから大学院に行く方が多いです。日本では考えられないですが、家族向けの寮も一般的で、すでに子供がいる人が家族ごと住むのも普通のことです。</p>
+<p>はっきりとわかりませんが、修士のCSなら平均年齢は26-28で、別に30代（中には40代）も普通にいるという感じです。なのでエンジニアとして仕事でキャリアを積まれた方が進学するのは普通のことと捉えられます。</p>
+<p>さすがに私は35歳での入学なので多少出遅れた感はあるものの、年齢が原因で不合格になったり、就活でも職務経歴書で年齢を求められることもないので、日本人の若く見られる顔つきと、せめて心だけでもフレッシュなマインドで乗り越えます😅</p>
+<h1>越えるべき壁</h1>
+<h2>英語力</h2>
+<p>応募書類に英語試験の結果が必要です。留学経験も海外勤務経験もない日本人には英語の試験で高得点を取ることが<strong>最大の関門</strong>になります。結構大変です😵‍💫</p>
+<p>ただ、これは語学なので頭の良さの問題でなく、気合いと根性で超えられる問題だと思っています。ケンブリッジ大学の論文でもとにかく時間を掛ければ語学力が伸びることが説明されてます。：<a href="https://www.cambridge.org/elt/blog/wp-content/uploads/2018/10/How-long-does-it-take-to-learn-a-foreign-language.pdf" rel="noopener noreferrer" target="_blank">How long does it take to learn a language</a></p>
+<p>実際私も英語の勉強を初めてから1年かけて最終的には試験の基準点はクリアしました。継続あるのみです。</p>
+<h2>コスト</h2>
+<p>留学中は、学費に加えて賃貸や健康保険やら食費がかかります。これが近年物価高と円安で、ありえないほど高額になっています。</p>
+<p>コストは大学の立地やプログラムの期間によるのでどうしても幅が出ますが、大体1300万円~2000万(2025年現在)くらいかかります。</p>
+<p>ですが日本国内で言えば、IT業界のエンジニアは給与水準がかなり高いので、他の職種の人に比べて有利なのではと思います。</p>
+<p>どのみち、英語の勉強と出願で実際に入学するまで2年くらいの時間がかかるので、準備期間に節約し、入学までに必要な金額に到達するように計画すればクリアできます。</p>
+<p>もちろん20代だとどうしても給与が低いので厳しいかもです。若い人向けの返済不要の奨学金も結構あるので狙ってみましょう。返済不要の奨学金はどれも年齢制限があるので30オーバーだと難しいです。</p>
+<h1>まずはやってみる</h1>
+<p>ここまでの記事を読んで、いきなり「よし！アメリカの大学院行くぞ！」となる人はいないと思います。普通は「行く意味あるか？」とか「本当にうまくいくか？」など疑問が次々に出てきます。</p>
+<p>私も「本気で行くぞ」と思ったのは合格通知に返事する瞬間が最初で、それまでは「行くかどうかはまあ受かってから考えるか」という感覚でやってました。</p>
+<p>なので気負わず、もし少しでもアメリカの大学院進学が気になったらまずは、、、</p>
+<ul>
+<li>どんな大学院とプログラムがあるか調べてみる</li>
+<li>自分のGPA(大学時代の成績)をチェックしてみる</li>
+<li>英語試験の難易度を調べてみる</li>
+</ul>
+<p>のように、自分の興味に合わせて情報収集を始めてみるくらいでもいいと思います。もしだんだん熱量が高まってきたらそれが正直な自分の気持ちということです。</p>
+<h1>留学は特別なことか？</h1>
+<p>日本のエンジニアでは珍しいので「アメリカの大学院に進学します」と言うとかなり驚かれますが、考えようによってはまあ普通のことだと思うし、普通のことにしていった方が日本の産業にとってもいいと思います。</p>
+<p>ロイターの記事によれば、アメリカの大学は中国人やインド人がものすごい数おり、この2カ国だけで60万人がアメリカで留学生をやってるそうです。</p>
+<p>引用:<a href="https://www.reuters.com/world/us/trump-administration-halts-scheduling-new-student-visa-appointments-2025-05-27/" rel="noopener noreferrer" target="_blank">Trump administration halts scheduling of new student visa appointments</a></p>
+<p><img src="/assets/blog/2025_05_31/reuters_excerpt.png" alt="routers_excerpt"></p>
+<p>アメリカへの留学者が多いトップは中国・インド・韓国・カナダで、日本は具体的な記載がないですがベトナムや台湾よりも円が小さく見えます。</p>
+<p>なので、日本国内では珍しいことかもしれませんが、国が違えば割と普通のキャリア選択なのではないかと思います。</p>
+<p>国内においても、職種は変わりますが商社マンや戦略コンサルなんかは幹部候補を会社の費用でMBA取得に送り出すみたいな話を聞いたりします。IT界隈でそのような寛大な会社は聞いたことないですが、MBAを考えればやはり社会人からの留学・学位取得は正当なキャリア選択の1つです。</p>
+<h1>すごい人じゃないと行っちゃダメか？</h1>
+<p>「渡米」という言葉を聞くと野球のメジャーリーグみたいな感じで、国内で活躍している人がもっと実力を試したくてアメリカにチャレンジするみたいなイメージがあります。</p>
+<p>ただ仮にメジャーだとして、行ったからといって全員がスタープレイヤーとして活躍しなきゃいけないと思わないし、活躍できなかったからといって「渡米は無意味、日本で野球やってた方が良かった」とも思わないです。行けば行ったなりにユニークな経験を得ることができます。</p>
+<p>国内リーグでNo1の成績を収めてないくせに、メジャーに挑戦するのはダメという話もないと思います。単に行ってみたい人、他の世界を見てみたい人は、必要な準備をし、行ってみたらいいというだけの話です。</p>
+<p>肯定的な捉え方なら「人生楽しんだもの勝ち」だし、冷めた見方をすれば「自己満足」で、別にそれでいいと思うのです。自分にとっての正解だと思えばそれでいいのです。</p>
+<h1>おわりに</h1>
+<p>ということで今後も引き続き、私が苦労した準備や英語試験対策についての具体的な情報を発信していこうと思います。アメリカ就労やアメリカ大学院進学に興味がある人にとって少しでも参考になれば幸いです。</p>
+<p>新しい記事を書いたらXで言うので、よければフォローかこのブログのGithubレポジトリにスターしてください。</p>
+<p>それでは！👋</p>12:T518,M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z7:["$","main",null,{"children":[["$","$Lf",null,{}],["$","div",null,{"className":"sm:mx-0","children":["$","$L10",null,{"src":"/assets/blog/2025_05_31/cover_img.jpeg","alt":"Cover Image for エンジニアのキャリアとしてアメリカの大学院でCSを学ぶ","className":"shadow-sm mx-auto","width":1280,"height":630}]}],["$","div",null,{"className":"container mx-auto px-5 mt-4","children":["$","article",null,{"className":"max-w-2xl mx-auto mb-32","children":[["$","div",null,{"className":"mx-auto md:mt-8","children":[["$","h1",null,{"className":" text-5xl md:text-6xl font-bold tracking-tighter leading-tight","children":"エンジニアのキャリアとしてアメリカの大学院でCSを学ぶ"}],["$","div",null,{"className":"text-xs text-gray-400 mt-2 mb-8","children":["$","time",null,{"dateTime":"2025-05-31","children":"May\t31, 2025"}]}],["$","div",null,{"className":"flex flex-col items-center w-full","children":[["$","div",null,{"className":"flex items-center justify-left w-full","children":[["$","img",null,{"className":"w-12 h-12 rounded-full border mr-4 border-neutral-200 dark:border-neutral-700","src":"/assets/blog/profile/IJy6aSXU_400x400.jpg","alt":"kashitaka"}],["$","div",null,{"className":"flex flex-col justify-center","children":[["$","span",null,{"className":"text-lg font-semibold","children":"kashitaka"}],["$","span",null,{"className":"text-sm text-gray-600 dark:text-gray-400 max-w-sm","children":"エンジニア / 2025年にCS学びにアメリカの大学院に進学"}]]}]]}],false]}]]}],["$","div",null,{"className":"markdown-styles_markdown__ORfR8","dangerouslySetInnerHTML":{"__html":"$11"}}],["$","hr",null,{"className":"border-neutral-200 mt-20 mb-16"}],["$","div",null,{"className":"flex flex-col items-center w-full","children":[["$","div",null,{"className":"flex items-center justify-left w-full","children":[["$","img",null,{"className":"w-16 h-16 rounded-full border mr-4 border-neutral-200 dark:border-neutral-700","src":"/assets/blog/profile/IJy6aSXU_400x400.jpg","alt":"kashitaka"}],["$","div",null,{"className":"flex flex-col justify-center","children":[["$","span",null,{"className":"text-lg font-semibold","children":"kashitaka"}],false]}]]}],[["$","div",null,{"className":"mt-4 w-full flex justify-left mb-4","children":["$","p",null,{"style":{"whiteSpace":"pre-line"},"className":"text-sm text-gray-600 dark:text-gray-400 max-w-md","children":"ソフトウェアエンジニア。2025年夏Georgia TechのComputational Science and Engineering専攻に入学予定。\n   ブログでアメリカの大学院の受験のあれこれを伝えていきたいです。よろしくお願いします。\n   \n   経歴: 東工大 → 某新聞社 → リクルート → ベンチャーCTO → (株)サイカ → CSを学びに渡米"}]}],["$","div",null,{"className":"flex w-full gap-3 justify-left","children":[["$","a",null,{"href":"https://github.com/kashitaka","target":"_blank","rel":"noopener noreferrer","aria-label":"GitHub","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 496 512","className":"w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition","children":["$undefined",[["$","path","0",{"d":"$12","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","a",null,{"href":"https://x.com/kashitaka1118","target":"_blank","rel":"noopener noreferrer","aria-label":"X","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 512 512","className":"w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition","children":["$undefined",[["$","path","0",{"d":"M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","a",null,{"href":"https://www.linkedin.com/in/kashitaka/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 448 512","className":"w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-blue-700 dark:hover:text-blue-400 transition","children":["$undefined",[["$","path","0",{"d":"M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","a",null,{"href":"https://app.ens.domains/kashitaka.eth","target":"_blank","rel":"noopener noreferrer","aria-label":"Ethereum","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","viewBox":"0 0 320 512","className":"w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-[#627eea] dark:hover:text-white transition","children":["$undefined",[["$","path","0",{"d":"M311.9 260.8L160 353.6 8 260.8 160 0l151.9 260.8zM160 383.4L8 290.6 160 512l152-221.4-152 92.8z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]]}]]]}]]}]}]]}]
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"エンジニアのキャリアとしてアメリカの大学院でCSを学ぶ"}],["$","meta","2",{"name":"description","content":"アメリカの大学院でCSを学ぶあれこれを発信していきたいエンジニアのブログ。"}],["$","meta","3",{"property":"og:title","content":"エンジニアのキャリアとしてアメリカの大学院でCSを学ぶ"}],["$","meta","4",{"property":"og:description","content":"こんにちは。私は2025年の夏からコンピューターサイエンス(CS)を学ぶため、アメリカのジョージア工科大学の修士課程に留学します。このブログでは一連の投稿を通して、アメリカの大学院の情報や、準備のために何が必要なのかを発信していきたいと思います。"}],["$","meta","5",{"property":"og:site_name","content":"The Kashitaka Blog"}],["$","meta","6",{"property":"og:image","content":"https://kashitaka.dev/assets/blog/2025_05_31/cover_img.jpeg"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"エンジニアのキャリアとしてアメリカの大学院でCSを学ぶ"}],["$","meta","10",{"name":"twitter:description","content":"こんにちは。私は2025年の夏からコンピューターサイエンス(CS)を学ぶため、アメリカのジョージア工科大学の修士課程に留学します。このブログでは一連の投稿を通して、アメリカの大学院の情報や、準備のために何が必要なのかを発信していきたいと思います。"}],["$","meta","11",{"name":"twitter:image","content":"https://kashitaka.dev/assets/blog/2025_05_31/cover_img.jpeg"}]]
+9:null
