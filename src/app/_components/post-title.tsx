@@ -8,7 +8,7 @@ export function PostTitle({ children }: Props) {
   return (
     <h1
       className="
-      text-5xl md:text-6xl font-bold tracking-tighter leading-tight"
+      text-3xl md:text-5xl font-bold tracking-tighter leading-tight"
     >
       {children}
     </h1>

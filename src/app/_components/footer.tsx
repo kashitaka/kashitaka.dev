@@ -3,7 +3,7 @@ import { SITE_TITLE, YEAR } from "@/lib/constants"
 
 export function Footer() {
   return (
-    <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800">
+    <footer className="bg-neutral-50 border-t border-neutral-200 dark:bg-gray-900 dark:text-gray-200">
       <Container>
         <div className="py-16 flex justify-center items-center w-full text-sm">
           <span>

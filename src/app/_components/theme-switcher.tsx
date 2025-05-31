@@ -2,6 +2,13 @@
 
 import styles from "./switch.module.css"
 import { memo, useEffect, useState } from "react"
+import { BsSun, BsMoon, BsClock } from "react-icons/bs"
+
+const ICONS = {
+  system: <BsClock />,
+  dark: <BsMoon />,
+  light: <BsSun />,
+}
 
 declare global {
   var updateDOM: () => void
@@ -81,7 +88,17 @@ const Switch = () => {
     const index = modes.indexOf(mode)
     setMode(modes[(index + 1) % modes.length])
   }
-  return <button suppressHydrationWarning className={styles.switch} onClick={handleModeSwitch} />
+  return (
+    <button
+      suppressHydrationWarning
+      className={styles.switch}
+      onClick={handleModeSwitch}
+      aria-label={`Switch theme (current: ${mode})`}
+      title={`Switch theme（current: ${mode}）`}
+    >
+      {ICONS[mode]}
+    </button>
+  )
 }
 
 const Script = memo(() => (

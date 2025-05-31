@@ -9,10 +9,9 @@ export const YEAR = "2025"
 export const PROFILE = {
   name: "kashitaka",
   description:
-    "ソフトウェアエンジニア。2025年夏Georgia TechのComputational Science and Engineering専攻に入学予定。\n \
-  ブログでアメリカの大学院の受験のあれこれを伝えていきたいです。よろしくお願いします。\n \
-  \n \
-  経歴: 東工大 → 某新聞社 → リクルート → ベンチャーCTO → (株)サイカ → CSを学びに渡米",
+    "ソフトウェアエンジニア。2025年アメリカのGeorgia Techの修士課程でCSを学ぶ予定。\n \
+  ブログでアメリカの大学院の受験のあれこれを書いていきたい。\n \
+  経歴：埼玉育ち→東工大→新聞社→リクルート→ベンチャーCTO→(株)サイカ→CSを学びに渡米",
   image: "/assets/blog/profile/IJy6aSXU_400x400.jpg",
   githubUrl: "https://github.com/kashitaka",
   xUrl: "https://x.com/kashitaka1118",
