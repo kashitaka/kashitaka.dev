@@ -52,10 +52,10 @@ export async function generateMetadata(props: Params): Promise<Metadata> {
   }
 
   return {
-    title: post.title,
+    title: post.title + " | " + SITE_TITLE,
     openGraph: {
       type: "website",
-      title: post.title,
+      title: post.title + " | " + SITE_TITLE,
       images: [SITE_ROOT_PATH + post.ogImage.url],
       description: post.excerpt,
       siteName: SITE_TITLE,

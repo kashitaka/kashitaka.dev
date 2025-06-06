@@ -1,4 +1,5 @@
 import Footer from "@/app/_components/footer"
+import GoogleAnalytics from "./_components/google-analytics"
 import { SITE_TITLE, SITE_ROOT_PATH, HOME_OG_IMAGE_URL, SITE_DESCRIPTION } from "@/lib/constants"
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
@@ -21,9 +22,12 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  const isProd = process.env.NODE_ENV === "production"
+
   return (
     <html lang="en">
       <head>
+        {isProd && <GoogleAnalytics />}
         <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png" />
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png" />
