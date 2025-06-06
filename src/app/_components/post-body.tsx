@@ -7,7 +7,10 @@ type Props = {
 export function PostBody({ content }: Props) {
   return (
     <>
-      <div className={markdownStyles["markdown"]} dangerouslySetInnerHTML={{ __html: content }} />
+      <div
+        className={`prose prose-neutral dark:prose-invert ${markdownStyles["markdown"]}`}
+        dangerouslySetInnerHTML={{ __html: content }}
+      />
     </>
   )
 }

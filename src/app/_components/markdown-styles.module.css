@@ -36,6 +36,14 @@
   transition: color 0.2s;
   word-break: break-all;
 }
+/* dark-mode */
+:global(.dark) .markdown a {
+  color: #60a5fa; /* Tailwindのblue-400 */
+}
+:global(.dark) .markdown a:hover,
+:global(.dark) .markdown a:focus {
+  color: #93c5fd; /* Tailwindのblue-300 */
+}
 
 .markdown a:hover,
 .markdown a:focus {
@@ -89,4 +97,42 @@
 .markdown ul li,
 .markdown ol li {
   margin-bottom: 0.3em;
+}
+
+/* table */
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2em 0;
+  font-size: 0.8em;
+}
+.markdown th,
+.markdown td {
+  border: 1px solid #e5e7eb; /* Tailwindのgray-200 */
+  padding: 0.5em 1em;
+  text-align: left;
+}
+
+.markdown th {
+  background: #f3f4f6; /* Tailwindのgray-100 */
+  font-weight: 600;
+}
+
+.markdown tr:nth-child(even) td {
+  background: #f9fafb; /* Tailwindのgray-50 */
+}
+
+/* dark-mode */
+:global(.dark) .markdown table {
+  color: #e5e7eb; /* gray-200 */
+}
+:global(.dark) .markdown th,
+:global(.dark) .markdown td {
+  border-color: #334155; /* slate-700 */
+}
+:global(.dark) .markdown th {
+  background: #1e293b; /* slate-800 */
+}
+:global(.dark) .markdown tr:nth-child(even) td {
+  background: #0f172a; /* slate-900 */
 }
