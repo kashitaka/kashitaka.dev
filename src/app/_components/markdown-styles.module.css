@@ -139,8 +139,8 @@
 
 .markdown blockquote {
   border-left: 4px solid #a3a3a3; /* gray-400 */
-  background: #f3f4f6;            /* gray-100 */
-  color: #52525b;                 /* zinc-600 */
+  background: #f3f4f6; /* gray-100 */
+  color: #52525b; /* zinc-600 */
   padding: 1em 1.5em;
   margin: 1.5em 0;
   border-radius: 0.5em;
@@ -149,13 +149,13 @@
 
 :global(.dark) .markdown blockquote {
   border-left: 4px solid #64748b; /* slate-400 */
-  background: #1e293b;            /* slate-800 */
-  color: #cbd5e1;                 /* slate-300 */
+  background: #1e293b; /* slate-800 */
+  color: #cbd5e1; /* slate-300 */
 }
 
 .markdown code {
-  background: #f4f4f5;        /* zinc-100 */
-  color: #d97706;             /* amber-600: 目立つオレンジ系 */
+  background: #f4f4f5; /* zinc-100 */
+  color: #d97706; /* amber-600: 目立つオレンジ系 */
   padding: 0.2em 0.4em;
   border-radius: 0.3em;
   font-size: 0.95em;
@@ -166,6 +166,6 @@
 
 /* ダークモード */
 :global(.dark) .markdown code {
-  background: #27272a;        /* zinc-800 */
-  color: #d19e1d;             /* amber-400: 明るいオレンジ */
+  background: #27272a; /* zinc-800 */
+  color: #d19e1d; /* amber-400: 明るいオレンジ */
 }
