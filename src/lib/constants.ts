@@ -17,4 +17,5 @@ export const PROFILE = {
   xUrl: "https://x.com/kashitaka1118",
   linkedinUrl: "https://www.linkedin.com/in/kashitaka/",
   ethereumUrl: "https://app.ens.domains/kashitaka.eth",
+  xid: "kashitaka1118",
 }
