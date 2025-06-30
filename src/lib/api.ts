@@ -6,7 +6,7 @@ import { join } from "path"
 const postsDirectory = join(process.cwd(), "_posts")
 
 export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory)
+  return fs.readdirSync(postsDirectory).filter((file) => file.endsWith(".mdx"))
 }
 
 export function getPostBySlug(slug: string) {
