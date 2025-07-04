@@ -1,5 +1,6 @@
 import { Metadata } from "next"
 import { notFound } from "next/navigation"
+import "./github.min.css"
 import { getAllPosts, getPostBySlug } from "@/lib/api"
 import { SITE_ROOT_PATH, SITE_TITLE } from "@/lib/constants"
 import markdownToHtml from "@/lib/markdownToHtml"

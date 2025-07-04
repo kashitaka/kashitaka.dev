@@ -153,7 +153,7 @@
   color: #cbd5e1; /* slate-300 */
 }
 
-.markdown code {
+.markdown :not(pre) > code {
   background: #f4f4f5; /* zinc-100 */
   color: #d97706; /* amber-600: 目立つオレンジ系 */
   padding: 0.2em 0.4em;
@@ -165,7 +165,31 @@
 }
 
 /* ダークモード */
-:global(.dark) .markdown code {
+:global(.dark) .markdown :not(pre) > code {
   background: #27272a; /* zinc-800 */
   color: #d19e1d; /* amber-400: 明るいオレンジ */
+}
+
+/* コードブロック */
+.markdown pre {
+  background: #f3f4f6;
+  border-radius: 0.5em;
+  padding: 1em;
+  overflow-x: auto;
+  margin: 1.5em 0;
+}
+
+/* ダークモード */
+:global(.dark) .markdown pre {
+  background: #1d1d20;
+}
+
+/* コードブロック内のcode要素は背景なしでOK */
+.markdown pre code {
+  background: none;
+  color: inherit;
+  padding: 0;
+  border-radius: 0;
+  font-size: 1em;
+  word-break: normal;
 }
