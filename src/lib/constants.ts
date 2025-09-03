@@ -12,6 +12,7 @@ export const PROFILE = {
     "ソフトウェアエンジニア。2025年アメリカのGeorgia Techの修士課程でCSを学ぶ予定。\n \
   ブログでアメリカの大学院の受験のあれこれを書いていきたい。\n \
   経歴：埼玉育ち→東工大→新聞社→リクルート→ベンチャーCTO→(株)サイカ→CSを学びに渡米",
+  shortDescription: "エンジニア/TOEFLガチ勢100点達成済み/2025年にアメリカ・ジョージア工科大学の修士課程に留学",
   image: "/assets/blog/profile/IJy6aSXU_400x400.jpg",
   githubUrl: "https://github.com/kashitaka",
   xUrl: "https://x.com/kashitaka1118",

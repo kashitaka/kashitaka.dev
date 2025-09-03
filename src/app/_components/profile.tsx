@@ -24,7 +24,7 @@ const Profile = ({ concise = false, shortDescription }: Props) => {
       </div>
       {!concise && (
         <>
-          <div className="mt-4 w-full flex justify-left mb-4">
+          <div className="mt-4 w-full flex justify-left mb-2">
             <p style={{ whiteSpace: "pre-line" }} className="text-sm text-gray-600 dark:text-gray-400 max-w-md">
               {PROFILE.description}
             </p>
