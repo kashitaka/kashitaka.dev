@@ -12,6 +12,7 @@ import CoverImage from "@/app/_components/cover-image"
 import { SectionSeparator } from "@/app/_components/section-separator"
 import Profile from "@/app/_components/profile"
 import RelatedPosts from "@/app/_components/related-posts"
+import { getCategoryJPName } from "@/lib/category"
 
 export default async function Post(props: Params) {
   const params = await props.params
@@ -33,7 +34,7 @@ export default async function Post(props: Params) {
           <PostBody content={content} />
           <SectionSeparator />
           <div className="mb-4">
-            <h2 className="text-2xl font-bold">More posts about "{post.category}"</h2>
+            <h2 className="text-2xl font-bold">More posts about {getCategoryJPName(post.category)}</h2>
             <RelatedPosts category={post.category} currentSlug={post.slug} sortByDateProximity />
           </div>
           <div className="mt-10">

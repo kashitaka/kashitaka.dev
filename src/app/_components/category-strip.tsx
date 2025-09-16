@@ -1,5 +1,6 @@
 import Link from "next/link"
 import { getAllPosts } from "@/lib/api"
+import { getCategoryJPName } from "@/lib/category"
 
 export default function CategoryStrip() {
   const posts = getAllPosts()
@@ -9,9 +10,7 @@ export default function CategoryStrip() {
     return acc
   }, {})
 
-  const categories = Object.entries(counts).sort(
-    (a, b) => b[1] - a[1] // 件数降順など、好きに並べ替え
-  )
+  const categories = Object.entries(counts).sort((a, b) => b[1] - a[1])
 
   if (!categories.length) return null
 
@@ -21,7 +20,7 @@ export default function CategoryStrip() {
         {categories.slice(0, 10).map(([c, count]) => (
           <Link
             key={c}
-            href={`/categories/${encodeURIComponent(c)}`}
+            href={`/categories/${c}`}
             className="
               shrink-0 inline-flex items-center gap-1
               rounded-full border px-3 py-1 text-sm font-medium
@@ -31,7 +30,7 @@ export default function CategoryStrip() {
               transition
             "
           >
-            <span>{c}</span>
+            <span>{getCategoryJPName(c)}</span>
             <span className="text-xs text-gray-500">({count})</span>
           </Link>
         ))}

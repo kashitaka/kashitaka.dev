@@ -6,6 +6,7 @@ import Profile from "../../_components/profile"
 import { TopCover } from "../../_components/top-cover"
 import { MoreStories } from "@/app/_components/more-stories"
 import { getAllPosts } from "@/lib/api"
+import { getCategoryJPName, categories } from "@/lib/category"
 
 type Params = {
   params: Promise<{
@@ -20,7 +21,6 @@ export default async function Category(props: Params) {
   const posts = getAllPosts().filter((p) => p.category === category)
 
   if (posts.length === 0) {
-    // そのカテゴリが generateStaticParams に無い場合は 404
     return notFound()
   }
 
@@ -32,7 +32,7 @@ export default async function Category(props: Params) {
         <div className="max-w-2xl mx-auto lg:mt-8">
           <Profile concise shortDescription={PROFILE.shortDescription}></Profile>
           <div className="mt-8">
-            <h1 className="text-4xl font-bold mb-8">Posts in {category}</h1>
+            <h1 className="text-4xl font-bold mb-8">Posts in {getCategoryJPName(category)}</h1>
             <MoreStories posts={posts} />
           </div>
         </div>
@@ -42,7 +42,5 @@ export default async function Category(props: Params) {
 }
 
 export function generateStaticParams() {
-  const posts = getAllPosts()
-  const categories = Array.from(new Set(posts.map((p) => p.category))).filter(Boolean)
-  return categories.map((category) => ({ category }))
+  return categories.map((c) => ({ category: c.slug }))
 }
