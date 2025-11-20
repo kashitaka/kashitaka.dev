@@ -16,7 +16,7 @@ export default function CategoryStrip() {
 
   return (
     <nav className="-mx-4 px-4">
-      <div className="flex gap-2 overflow-x-auto scrollbar-hide py-1">
+      <div className="flex gap-2 py-1">
         {categories.slice(0, 10).map(([c, count]) => (
           <Link
             key={c}
