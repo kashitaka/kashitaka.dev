@@ -16,8 +16,6 @@ export default async function markdownToHtml(markdown: string) {
       ...defaultSchema.attributes,
       iframe: [
         "src",
-        "width",
-        "height",
         "frameborder",
         "allow",
         "allowfullscreen",
