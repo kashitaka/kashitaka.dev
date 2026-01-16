@@ -16,13 +16,13 @@ export default function CategoryStrip() {
 
   return (
     <nav className="-mx-4 px-4">
-      <div className="flex gap-2 py-1">
+      <div className="flex flex-wrap gap-2 py-1">
         {categories.slice(0, 10).map(([c, count]) => (
           <Link
             key={c}
             href={`/categories/${c}`}
             className="
-              shrink-0 inline-flex items-center gap-1
+              inline-flex items-center gap-1
               rounded-full border px-3 py-1 text-sm font-medium
               border-gray-300 dark:border-gray-600
               hover:bg-gray-50 dark:hover:bg-gray-700
