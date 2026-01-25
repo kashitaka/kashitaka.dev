@@ -26,7 +26,7 @@ export default function RelatedPosts({ category, currentSlug, limit = 5, sortByD
   return (
     <section>
       {/* モバイル: 1枚 + peek。左寄せ。親の px-4 ガターを打ち消したい場合は -mx-4 + px-4 */}
-      <div className="md:hidden overflow-x-auto scrollbar-hide w-full -mx-4 px-4">
+      <div className="md:hidden overfla2 - aow-x-auto scrollbar-hide w-full -mx-4 px-4">
         <div className="flex space-x-4">
           {related.map((post) => (
             <Link
