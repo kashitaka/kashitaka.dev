@@ -8,6 +8,7 @@ export const categories: CategoryDef[] = [
   { slug: "us-graduate-school", jp: "アメリカ大学院留学" },
   { slug: "travel", jp: "旅行" },
   { slug: "us-life", jp: "アメリカ生活" },
+  { slug: "development", jp: "ソフトウェア開発" },
 ]
 
 export function getCategorySlugByJpName(jpName: string) {
